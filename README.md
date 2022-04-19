@@ -7,7 +7,7 @@ _**.NET Framework:** 4.0_
 
 _**App version:** 2.0.0_
 
-:slightly_smiling_face: **_[Download the program](https://github.com/Sky-VIN/Garbage/blob/master/Garbage/bin/Release/Garbage.exe)_**
+:slightly_smiling_face: **_[Download the program](https://github.com/Sky-VIN/Garbage/raw/master/Garbage/bin/Release/Garbage.exe)_**
 
 ![screenshot](https://user-images.githubusercontent.com/12991091/163800530-648ee601-2dde-4702-910a-a3c8e9160531.png)
 
